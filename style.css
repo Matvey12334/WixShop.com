@@ -1,0 +1,11 @@
+body {
+    background: rgb(174, 174, 238);
+    background: radial-gradient(circle, rgba(174, 174, 238, 1) 0%, rgba(148, 187, 233, 1) 100%);
+}
+
+.main-text {
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    text-indent: 25px;
+
+}
