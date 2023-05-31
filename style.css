@@ -6,8 +6,85 @@ body {
 .main-text {
     font-size: 40px;
     color: rgb(255, 255, 255);
-    text-indent: 25px;
-
+    text-indent: 25px;  
+    font-weight: normal;
+	font-size: 50px;
+    text-shadow: 5px 5px 5px black;
 }
 
-.wix {}
+.wix {
+    text-align: center;
+    color: white;   
+    width: 350px;
+    margin-left: 450px;
+    margin-right: 450px;
+	font-weight: normal;
+	font-size: 50px;
+    text-shadow: 5px 5px 5px black;
+    font-family: 'Kaushan Script';
+}
+
+.wix-title {
+    text-align: center;
+    color: white;   
+    width: 350px;
+    margin-left: 450px;
+    margin-right: 450px;
+    font-weight: normal;
+	font-size: 50px;
+    text-shadow: 5px 5px 5px black;
+    font-family: 'Kaushan Script';
+}
+
+.wix2 {
+    height: 675px;
+    width: 900px;
+    margin-left: 170px;
+    margin-right: 170px;
+}
+
+.pages-link {
+    font-family: 'Kaushan Script';
+    text-decoration: none ;
+    text-shadow: 3px 1px 3px black;
+    font-size: 36px;
+    color: white;
+    font-weight: normal;
+	font-size: 50px;
+    text-shadow: 5px 5px 5px black;
+  }
+
+  .pages_list {
+    display: flex;
+    justify-content: space-between;
+    list-style: none ;
+}
+
+.wixe {
+    background-color: rgba(34, 225, 13, 0.938);
+    color: rgb(0, 0, 0);
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.wixi {
+    background-color: rgba(225, 13, 13, 0.938);
+    color: rgb(0, 0, 0);
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.wixe25 {
+   color: white;
+   height: 450;
+}
+
+.wix-photo {
+    height: 675px;
+    width: 900px;
+    margin-left: 170px;
+    margin-right: 170px;
+}
+
